@@ -1,0 +1,31 @@
+textarea {
+    width: 500;
+    height: 200;
+    background-color: #ffffff;
+    color: #a4a1a1;
+}
+
+input {
+    font-family: sans-serif;
+    color: #a9a9a9;
+}
+
+.button {
+    width: 500;
+    height: 40;
+}
+
+b {
+    font-size: 20pt;
+    color: #000000;
+}
+
+body {
+    background-color: #ffffff;
+    font-family: sans-serif;
+}
+
+table {
+    border-color: #787878;
+    background-color: #b6b6b6;
+}
