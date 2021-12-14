@@ -18,4 +18,4 @@
   <li>Yang kesembilan ini setelah saya menggunakan program enkripsi tadi, kemudian saya mengubahnya atau mendekripsikan file yang tadi dienkripsi menjadi file aslinya kembali dengan nama filenya ini <i>cashbackdekrip.jpeg</i></li>
   <li>pada program ini, saat file hasil enkripsi dibuka maka tidak akan muncul gambarnya, hanya kode-kode random yang muncul. kemudian setelah didekripsi maka gambar akan muncul kembali seperti gambar aslinya</li>
 </ol>
-<h5><i><u>hanya ini yang saya bisa jelaskan, kurang lebihnya mohon maaf. Terimakasih :)</u></i></h5>
+<h5><i><u>*hanya ini yang saya bisa jelaskan, kurang lebihnya mohon maaf. Terimakasih :)</u></i></h5>
